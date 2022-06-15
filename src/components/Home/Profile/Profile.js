@@ -32,12 +32,7 @@ export default function Profile() {
               <h1>
                 <Typical
                   loop={Infinity}
-                  steps={[
-                    'Linux Essential 👨‍💻',
-                    1000,
-                    'Fullstack Developer 👨‍💻',
-                    1000,
-                  ]}
+                  steps={['QA 👨‍💻', 1000, 'Fullstack Developer 👨‍💻', 1000]}
                 />
               </h1>
               <span className="profile-role-tagline">
