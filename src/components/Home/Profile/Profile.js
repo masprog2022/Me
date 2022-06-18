@@ -32,12 +32,12 @@ export default function Profile() {
               <h1>
                 <Typical
                   loop={Infinity}
-                  steps={['QA 👨‍💻', 1000, 'Fullstack Developer 👨‍💻', 1000]}
+                  steps={['Software Engineer 👨‍💻', 1000]}
                 />
               </h1>
               <span className="profile-role-tagline">
-                Habilidade de construir aplicativos com operações front-end e
-                back-end
+                Knack of building applications with front and back end
+                operations.
               </span>
             </span>
           </div>
