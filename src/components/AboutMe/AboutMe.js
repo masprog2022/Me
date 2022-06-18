@@ -27,10 +27,9 @@ export default function AboutMe() {
           <div className="about-me-profile"></div>
           <div className="about-me-details">
             <span className="about-me-description">
-              Full stack web and mobile developer with background knowledge of
-              MERN stacks with redux, along with a knack of building
-              applications with utmost efficiency. Strong professional with a
-              BSC willing to be an asset for an organization.
+              Passionate about technology, I am an experienced software quality
+              engineer. have web application development skills, and great
+              ability to work in a team.
             </span>
             <div className="about-me-highlights">
               <div className="highlight-heading">
@@ -39,42 +38,32 @@ export default function AboutMe() {
 
               <div className="highlight">
                 <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
+                <span>Software Quality Assurance Analyst </span>
               </div>
 
               <div className="highlight">
                 <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
+                <span>Full Stack web development</span>
               </div>
 
               <div className="highlight">
                 <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
+                <span>Interactive Front End as per the design</span>
               </div>
 
               <div className="highlight">
                 <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
+                <span>UI/UX Designer</span>
               </div>
 
               <div className="highlight">
                 <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
+                <span>Building REST API</span>
               </div>
 
               <div className="highlight">
                 <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
-              </div>
-
-              <div className="highlight">
-                <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
-              </div>
-
-              <div className="highlight">
-                <div className="highlight-blob"></div>
-                <span>Full Stack web and mobile development</span>
+                <span>Managing database</span>
               </div>
             </div>
 

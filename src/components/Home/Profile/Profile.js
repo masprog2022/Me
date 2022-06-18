@@ -32,7 +32,7 @@ export default function Profile() {
               <h1>
                 <Typical
                   loop={Infinity}
-                  steps={['Software Engineer 👨‍💻', 1000]}
+                  steps={['Software Engineer 👨‍💻', 1000, 'QA Analyst 💻 ', 1000]}
                 />
               </h1>
               <span className="profile-role-tagline">
